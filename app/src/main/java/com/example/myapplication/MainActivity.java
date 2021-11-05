@@ -24,6 +24,14 @@ public class MainActivity extends AppCompatActivity {
                 "Android Example",
                 "List View Source Code",
                 "List View Array Adapter",
+                "Android Example List View",
+                "Android Example List View",
+                "Adapter implementation",
+                "Simple List View In Android",
+                "Create List View Android",
+                "Android Example",
+                "List View Source Code",
+                "List View Array Adapter",
                 "Android Example List View"
         };
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
